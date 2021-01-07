@@ -12,7 +12,7 @@ html[data-theme="dark"] {
     --highlight-color: hsl(0, 0%, 60%);
     --light-border-color: hsl(0, 0%, 30%);
     --light-text-color: rgb(199, 199, 204);
-    --link-color: #f69801;
+    --link-color: #01f6e2;
     --link-color-visited: hsl(250, 100%, 60%);
     --main-background-color: rgb(28, 28, 30);
     --main-text-color: rgb(139, 139, 139);
@@ -53,9 +53,9 @@ html[data-theme="light"] {
         --highlight-color: hsl(0, 0%, 60%);
         --light-border-color: hsl(0, 0%, 30%);
         --light-text-color: rgb(199, 199, 204);
-        --link-color: #f69801;
+        --link-color: #01f6e2;
         --nav-color: #131313;
-        --search-color: #FF7901;
+        --search-color: #01f6e2;
         --nav-link-color: rgba(255, 255, 255, .5);
         --link-color-visited: hsl(250, 100%, 60%);
         --main-background-color: rgb(28, 28, 30);
@@ -75,7 +75,7 @@ html[data-theme="light"] {
         --highlight-color: hsl(0, 0%, 80%);
         --light-border-color: rgb(230, 230, 230);
         --light-text-color: rgb(72, 72, 74);
-        --link-color: #ca6521;
+        --link-color: #01f6e2;
         --nav-color: #ffffff;
         --nav-link-color: #111111;
         --search-color: #ababab;
@@ -111,7 +111,7 @@ ol, ul {
 
 /* Progress bar */
 .my-class .bar {
-    background: #f69801;
+    background: #01f6e2;
 }
 
 body {
@@ -225,7 +225,7 @@ header {
 }
 
 .navbar-dark .navbar-brand {
-    color: #ff7601 !important;
+    color: #01f6e2 !important;
 }
 .navbar-dark .navbar-nav .nav-link {
     color: var(--nav-link-color) !important;
@@ -302,15 +302,15 @@ header {
         width: 5%;
         cursor: pointer;
         text-align: center;
-        color: orange;
+        color: rgb(0, 255, 213);
 
       .icon {
         vertical-align: text-top;
         transition: 0.4s;
-        fill: #fff;
+        fill: #01f6e2;
 
         &:hover {
-          fill: orange;
+          fill: rgb(0, 255, 213);
           transform: rotate(90deg);
         }
       }
@@ -335,13 +335,13 @@ header {
         position: absolute;
         top: 10%;
         width: 100%;
-        color: #f69801;
+        color: #01f6e2;
         background: rgba(0, 0, 0, 0);
         font-size: 30px;
         font-weight: 300;
         text-align: center;
         border: 0px;
-        border-bottom: 1px dashed #ffa000;
+        border-bottom: 1px dashed #01f6e2;
         margin: 0px auto;
         margin-top: -51px;
         padding-left: 30px;
@@ -350,7 +350,7 @@ header {
 
       &:focus {
         border: 0;
-        border-bottom: 1px dashed #ffa000;
+        border-bottom: 1px dashed #01f6e2;
       }
     }
 
@@ -372,7 +372,7 @@ header {
     overflow: auto;
     white-space: normal;
     text-align: center;
-    color: lightgrey;
+    color: lightgray;
 
     .heading {
        margin-bottom: 16px !important;
@@ -391,12 +391,12 @@ header {
         text-decoration: none;
         font-size: 25px;
         line-height: 25px;
-        color: orange !important;
+        color: rgb(0, 255, 221) !important;
         text-decoration: none;
       }
 
       &__date {
-        color: orange;
+        color: rgb(0, 255, 213);
         font-size: 15px;
         line-height: 15px;
       }
@@ -493,10 +493,11 @@ header {
     background-color: black !important;
 }
 
-/* jumbotron */
+/* jumbotron */ 
 .jumbotron {
     background-color: var(--main-background-color) !important;
-    background-image: url('https://images.pexels.com/photos/1037992/pexels-photo-1037992.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
+    background-image: url('https://images.pexels.com/photos/1037992/pexels-photo-1037992.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260'); 
+    /* background-image: url('../img/posts/workstation.png'); */ 
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -528,7 +529,7 @@ header {
 .lead {
     font-size: 1.30rem !important;
     font-weight: 600;
-    color: #111 !important;
+    color: #111 !important; 
 }
 
 .fa {
@@ -538,7 +539,7 @@ header {
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    color: coral;
+    color: #01f6e2;
 }
 
 .product{
@@ -585,7 +586,7 @@ header {
 }
 
 .lg-progress-bar .lg-progress {
-    background-color: #db980f !important;
+    background-color: #01f6e2 !important;
     height: 4px;
     width: 0;
 }
@@ -647,7 +648,7 @@ header {
 }
 .article-card-link, .article-card-link:hover{
     text-decoration: none;
-    color: orange !important;
+    color: rgb(0, 255, 213) !important;
 }
 .article-card{
     list-style-type: none;
