@@ -12,3 +12,6 @@ _site/
 .bundle
 .bundle/
 vendor/
+
+# a file that holds snippets of code that was removed from the template
+playground.md
