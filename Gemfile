@@ -7,7 +7,7 @@ gem 'rack-jekyll'
 gem 'rake'
 gem 'puma'
 gem 'thin'
-gem "rack", ">= 2.1.4"
+#gem "rack", ">= 2.1.4"
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
