@@ -1,7 +1,7 @@
 ---
 name: Lesley Miller
 username: lesleymiller
-bio: "Hi I'm Lesley, a Data Scientist."
+bio: "Hi I'm Lesley, I'm a Data Scientist."
 site: http://johndoe.com
 avatar: lesleymiller.png
 email: lesley.miller@alumni.ubc.ca
