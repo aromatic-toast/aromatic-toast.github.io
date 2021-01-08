@@ -2,9 +2,9 @@
 lesleymiller:
    name: Lesley Miller
    username: lesleymiller
-   #site: http://johndoe.com
+   site: https://LesleyMiller.github.io
    avatar: lesleymiller.png
-   bio: "Hi I'm Lesley, I'm a data scientist."
+   bio: "Hi I'm Lesley, I'm a Data Scientist, runner, cyclist, skier and outdoor nature lover.."
    email: lesley.miller@alumni.ubc.ca
    social:
       - title: "github"
