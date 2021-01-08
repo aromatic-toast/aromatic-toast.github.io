@@ -2,7 +2,7 @@
 name: Lesley Miller
 username: lesleymiller
 bio: "Hi I'm Lesley, I'm a Data Scientist."
-site: https://aromatic-toast.github.io/
+site: https://lesleymiller.herokuapp.com/
 avatar: lesleymiller.png
 email: lesley.miller@alumni.ubc.ca
 social:
