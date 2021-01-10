@@ -3,7 +3,7 @@ layout: post
 title:  "Introduction to Basic Datatypes in R"
 summary: "Numerics, Characters, Integers, Logicals Oh My!"
 author: lesleymiller
-date: '2020-12-30 1:11:23 +0530'
+date: '2020-12-30'
 category: tutorials
 thumbnail: /assets/img/posts/workstation.png
 keywords: R, data types
