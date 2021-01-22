@@ -6,8 +6,8 @@ author: lesleymiller
 date: '2021-01-21'
 category: tutorials
 thumbnail: /assets/img/posts/height_density_plot.png
-keywords: data science
-permalink: /blog/what-is-the-clt/
+keywords: statistics
+permalink: /blog/what-is-the-clt
 usemathjax: true
 ---
 
