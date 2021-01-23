@@ -5,7 +5,7 @@ title:  "What is the Central Limit Theorem?"
 author: lesleymiller
 date: '2021-01-21'
 category: tutorials
-thumbnail: /assets/img/posts/height_density_plot.png
+thumbnail: /assets/img/posts/workstation.png
 keywords: statistics
 permalink: /blog/what-is-the-clt
 usemathjax: true
@@ -14,7 +14,9 @@ usemathjax: true
 If you have taken any introductory stats course, one of the first things you will learn about is the `Central Limit Theorem`. Even though its a core statistical concept, I'll admit that it took awhile to wrap my head around it the first time and understand what it really meant and why it was important. This blog post will attempt to demistify the concept of CLT by using practical illustrations. I'll address the following questions: 
 
 1) Why is CLT so central to statistics? 
+
 2) Is the concept useful? 
+
 3) How should I use it as a data scientist? 
 
 Okay here we go...
